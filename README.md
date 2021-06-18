@@ -2,7 +2,7 @@
 
 Face and mask detection using CNN
 
-![result.png](https://github.com/Harshamanipi/slayer/blob/main/img.jpg)
+![result.png](https://github.com/c-bhavya-sree/jarwis3/blob/main/Covid%20mask.jpg)
 
 ## Requirement
 
